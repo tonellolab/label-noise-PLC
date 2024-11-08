@@ -34,6 +34,14 @@ The scripts `main_functions.py` and `utils.py` define the functions needed in `m
 
 If you use the code for your research, please cite our paper:
 ```
+@inproceedings{novello2024label,
+  title={Label Noise Resistant f-Divergence Receiver for Power Line Communications},
+  author={Novello, Nicola and Tonello, Andrea M},
+  booktitle={2024 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)},
+  pages={517--522},
+  year={2024},
+  organization={IEEE}
+}
 
 ```
 ---
